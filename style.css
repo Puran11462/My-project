@@ -37,9 +37,6 @@ nav a:hover{
 nav a:active{
     color:red;
 }
-nav a:visited{
-    color:green;
-}
 header .date {
     font-style: italic;
     font-size: 0.9rem;
